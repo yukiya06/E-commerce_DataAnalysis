@@ -2,7 +2,7 @@
 ## 재주문을 장려하기 위한 마케팅 인사이트 도출
 
 * 데이터 분석 및 발표 : 안나 (Email: naan74532@gmail.com)
-* [발표자료 PDF](링크) - 수정중
+* [발표자료 PDF](https://github.com/yukiya06/E-commerce_DataAnalysis/blob/main/DA_%EC%95%88%EB%82%98_%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EB%A7%A4%EC%B6%9C%EB%B6%84%EC%84%9D.pdf)
 
 ## 프로젝트 전체 목차
 #### 1. 주제 선정 이유 및 자료 구성  
